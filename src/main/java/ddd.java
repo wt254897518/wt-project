@@ -4,4 +4,5 @@ public class ddd {
     }
 
     private String abc;
+    private String name;
 }
